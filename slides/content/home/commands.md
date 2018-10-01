@@ -326,17 +326,21 @@ git pull
 git checkout -b add-workflow
 ```
 
-3. Add commmits (repeate)
+3. Add commits (repeat)
 ```
 git add file
 git commit
 ```
+---
 
-4. Push or Merge
+## continued
+
+Push
 ```
 git push -u origin add-workflow
 ```
-or
+
+or Merge 
 ```
 git checkout master
 git merge --no-ff add-workflow

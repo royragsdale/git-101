@@ -43,12 +43,21 @@ A head is simply a reference to a commit object. Each head has a name.
 ---
 # branch
 
+A pointer to a specific history of commits.
+
+Also known as a head.
+
 ---
 # commit
+
+A specific snapshot (revision) of your repository.
 
 ---
 # Remote
 
+Another copy of the repository. For example:
 
+- GitHub
+- GitLab
 
 {{% /section %}}
