@@ -114,13 +114,46 @@ $ git commit
 
 ---
 # From Scratch
-- new machine
 - a workflow
+- new machine
+- keys!
+
+---
+# a workflow
 
 ---
 # New Machine
 
+You only need to do this on a brand new machine
+
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+$ git config --global core.editor "gedit -s"
+```
+
+[reference](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
 ---
-# a workflow
+# SSH Based Auth 
+
+You only need to do this on a brand new machine
+
+1. Generate a public/private key pair
+
+```
+$ ssh-keygen
+```
+
+2. Upload the public key (`~/.ssh/id_rsa.pub`)
+  - GitHub: https://github.com/settings/keys
+  - GitLab: https://gitlab.com/profile/keys
+
+3. Use the `ssh` URI to clone
+
+```
+git@github.com:royragsdale/git-101.git
+```
 
 {{% /section %}}
