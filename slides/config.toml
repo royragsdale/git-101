@@ -9,3 +9,9 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+theme = "solarized"
+highlight_theme = "solarized-dark"
+slide_number = true
+transition = "slide"

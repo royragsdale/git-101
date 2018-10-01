@@ -1,8 +1,33 @@
 +++
-title = "My presentation"
+title = "Git 101"
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+# Git 101
 
-This is my first slide.
+---
+
+# Agenda
+
+1. The Scene
+2. The Cast
+3. The Pilot Episode
+4. The 
+
+---
+
+{{< slide background-image="/img/yo_dawg_git.jpg"  background-size="contain" >}}
+
+---
+# So meta
+
+Use git to get this presentation
+
+```
+git clone https://github.com/royragsdale/git-101.git
+```
+
+---
+# A bit of history
+
+
