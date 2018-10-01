@@ -27,6 +27,7 @@ weight=90
 - [Snapshots](https://git-scm.com/book/en/v2/images/snapshots.png)
 - [Oprah](https://i.imgur.com/JNhU5Tt.gif)
 - [Distributed](https://git-scm.com/about/distributed)
+- XKCD [1](https://imgs.xkcd.com/comics/git_commit.png), [2](https://imgs.xkcd.com/comics/git.png)
 - [Corporation for Public Broadcasting](https://i1.ytimg.com/vi/-eGqIrMRNCY/hqdefault.jpg)
 
 

@@ -17,7 +17,7 @@ weight = 10
 
 ---
 
-# What are we talking about
+# Lets RTFM
 
 ```
 GIT(1)                Git Manual                GIT(1)
