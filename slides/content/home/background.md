@@ -48,6 +48,11 @@ https://git-scm.com/book/en/v2
 
 ---
 
+# distributed
+# version control system
+
+---
+
 # Version Control
 
 snapshots over time
@@ -75,7 +80,4 @@ e.g. you and your buddies
 
 e.g. many open source repositories
 
-
 {{% /section %}}
-
-

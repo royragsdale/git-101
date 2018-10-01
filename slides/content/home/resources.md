@@ -9,6 +9,7 @@ weight=90
 - Exercises
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [Codecademy](https://www.codecademy.com/learn/learn-git)
+- [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 - [More links](https://git-scm.com/doc/ext)
 
 ---
