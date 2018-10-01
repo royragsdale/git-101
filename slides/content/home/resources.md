@@ -6,10 +6,10 @@ weight=90
 
 - [Documentation](https://git-scm.com/docs)
 - [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
-- Online
+- Exercises
   - [Learn Git Branching](https://learngitbranching.js.org/)
   - [Codecademy](https://www.codecademy.com/learn/learn-git)
-
+- [More links](https://git-scm.com/doc/ext)
 
 ---
 {{% section %}}
@@ -26,3 +26,7 @@ weight=90
 
 
 {{% /section %}}
+
+---
+
+# Thank you

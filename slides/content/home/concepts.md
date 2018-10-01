@@ -11,3 +11,53 @@ weight = 20
 5. Wrap
 
 {{% /section %}}
+
+---
+
+{{< slide background-image="/img/xkcd_git.png"  background-size="50%" >}}
+
+---
+# Core Commands
+- setup
+- snapshot
+- branch and merge
+- share and update
+
+---
+
+# Setup
+`init`
+
+```
+$ git init
+Initialized empty Git repository in /home/roy/code/git-101/.git/
+```
+
+- `clone`
+
+---
+
+# Snapshot
+
+- `status`
+- `add`
+- `commit`
+---
+
+# Branch and Merge
+
+- `checkout`
+- `merge`
+
+---
+# Share and Update
+
+- `push`
+- `pull`
+
+---
+
+# Info
+
+- `log`
+- `diff`

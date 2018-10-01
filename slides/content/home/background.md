@@ -28,8 +28,21 @@ DESCRIPTION
        and full access to internals.
 ```
 ---
+
 {{< slide background-image="/img/git-logo.png"  background-size="65%" >}}
 
+---
+
+# Lets try the website
+
+> Git is a free and open source distributed version control system designed to
+> handle everything from small to very large projects with speed and efficiency.
+
+---
+
+# Version Control
+
+aka revision control, aka source control
 
 {{% /section %}}
 
