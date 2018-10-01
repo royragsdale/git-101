@@ -22,6 +22,10 @@ weight=90
 
 - [Yo Dawg Meme](http://i.imgur.com/CB8nFHU.jpg)
 - [Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+- [Linus](https://i.imgflip.com/xsdtv.jpg)
+- [Snapshots](https://git-scm.com/book/en/v2/images/snapshots.png)
+- [Oprah](https://i.imgur.com/JNhU5Tt.gif)
+- [Distributed](https://git-scm.com/about/distributed)
 - [Corporation for Public Broadcasting](https://i1.ytimg.com/vi/-eGqIrMRNCY/hqdefault.jpg)
 
 

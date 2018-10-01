@@ -9,10 +9,11 @@ outputs = ["Reveal"]
 
 # Agenda
 
-1. The Scene  
+1. The Scene
 2. The Cast
-3. The Pilot Episode
-4. The 
+3. Call for Extras
+4. Pilot Episode
+5. Wrap
 
 ---
 
@@ -26,3 +27,4 @@ Use git to get this presentation
 ```
 git clone https://github.com/royragsdale/git-101.git
 ```
+

@@ -4,16 +4,20 @@ weight = 10
 
 {{% section %}}
 
-1. The Scene          **<---**
-2. The Cast
-3. Call for Extras
-4. Pilot Episode
-5. Wrap
+# The Scene
+
+---
+
+{{< slide background-image="/img/git-logo.png"  background-size="65%" >}}
+
+---
+# By This Guy
+
+![](/img/linus.jpg)
 
 ---
 
 # What are we talking about
-
 
 ```
 GIT(1)                Git Manual                GIT(1)
@@ -27,9 +31,6 @@ DESCRIPTION
        set that provides both high-level operations
        and full access to internals.
 ```
----
-
-{{< slide background-image="/img/git-logo.png"  background-size="65%" >}}
 
 ---
 
@@ -39,10 +40,41 @@ DESCRIPTION
 > handle everything from small to very large projects with speed and efficiency.
 
 ---
+# How about the book
+
+## Pro Git
+
+https://git-scm.com/book/en/v2
+
+---
 
 # Version Control
 
-aka revision control, aka source control
+snapshots over time
+
+![](/img/snapshots.png)
+
+---
+# Distributed
+
+You get a copy! You get a copy! EVERYONE gets a copy!
+
+![](/img/oprah.gif)
+
+---
+## Centralized
+
+![](/img/centralized.png)
+
+e.g. you and your buddies
+
+---
+## Integration Manager / Protected
+
+![](/img/integration.png)
+
+e.g. many open source repositories
+
 
 {{% /section %}}
 
