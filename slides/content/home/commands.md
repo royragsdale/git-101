@@ -308,12 +308,27 @@ $ man git-<verb>
 
 ---
 # From Scratch
-- a workflow
+- put it all together
 - new machine
 - keys!
 
 ---
 # a workflow
+
+1. Make Sure you are up to date
+```
+git checkout master
+git pull
+```
+
+2. Create a branch
+```
+git checkout -b add-workflow
+```
+
+3. Add commmits
+```
+```
 
 ---
 # New Machine
