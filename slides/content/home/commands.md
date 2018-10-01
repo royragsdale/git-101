@@ -326,8 +326,20 @@ git pull
 git checkout -b add-workflow
 ```
 
-3. Add commmits
+3. Add commmits (repeate)
 ```
+git add file
+git commit
+```
+
+4. Push or Merge
+```
+git push -u origin add-workflow
+```
+or
+```
+git checkout master
+git merge --no-ff add-workflow
 ```
 
 ---
