@@ -1,6 +1,11 @@
 # Git 101
 
-An introduction to `git` for SIGSAC.
+An introduction to `git` for SIGSAC. There is a ton to learn about `git`. This
+is hopefully just enough to get you started.
+
+## Quick Start
+
+A static copy of the [slides](./slides_b0de369.pdf).
 
 ## Slides
 
